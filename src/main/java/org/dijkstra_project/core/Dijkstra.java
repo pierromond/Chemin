@@ -110,6 +110,6 @@ public class Dijkstra extends AbstractScalarFunction {
 
 	@Override
 	public String getSqlOrder() {
-		return "hophop BR_SpectrumRepartition(100,1,dbA) as dbA_100 from myTable;";
+		return "hophophop BR_SpectrumRepartition(100,1,dbA) as dbA_100 from myTable;";
 	}
 }
